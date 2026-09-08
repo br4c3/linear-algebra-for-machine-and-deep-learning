@@ -3,3 +3,5 @@ matplotlib
 torch
 scipy
 kagglehub
+pandas
+scikit-learn
