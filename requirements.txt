@@ -6,3 +6,5 @@ kagglehub
 pandas
 scikit-learn
 pyarrow
+opencv-python
+scikit-image
